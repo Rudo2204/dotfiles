@@ -1,0 +1,2 @@
+// Create a random log file
+$ some command > "$cat"anime_list"_"$(date +%Y_%m_%d)"_"$RANDOM".txt"

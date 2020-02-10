@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# Rename them
+find . -maxdepth 1 -name "*.JPG" | rename 'y/A-Z/a-z/'
+# Resize them
+for f in *.jpg
+do
+    mkdir -p resized
+    convert "$f" -resize 1280x720\> "./resized/${f%%.jpg}_resized.jpg"
+done
+# Clean up
+mkdir -p original
+mv *.jpg original

@@ -1,0 +1,8 @@
+# Upload to phones
+- sudo apt install lftp
+- Settings of lftp found in rudo-dotfiles
+- lftp -u anon,abcde -p 21 192.168.100.5 (see on phone)
+- cd into it, copy using `mirror`
+- mirror normally (without -R) means download from phone to pc
+- mirror with -R means upload from pc to phone
+E.g: mirror -R 'Documents/foobar_convert' 'foobar2000 Music Folder'

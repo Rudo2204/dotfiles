@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="Mangadex RSS" title="Mangadex RSS" type="rss" 
+            xmlUrl="https://mangadex.org/rss/follows/Vm9R5cUSpa63gtvKb24sQCzTEPwuGXxY" htmlUrl="https://mangadex.org/" scanDelay="5"/>
+      <outline text="AdmiralBulldog Youtube" title="AdmiralBulldog Youtube" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk8ZIMJxSO9-pUg7xyrnaFQ" htmlUrl="https://www.youtube.com/channel/UCk8ZIMJxSO9-pUg7xyrnaFQ" scanDelay="5"/>
+      <outline text="Kurzgesast" title="Kurzgesast" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q" htmlUrl="https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"/>
+      <outline text="SovietWomble" title="SovietWomble" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQD3awTLw9i8Xzh85FKsuJA" htmlUrl="https://www.youtube.com/channel/UCQD3awTLw9i8Xzh85FKsuJA"/>
+      <outline text="LEMMiNO" title="LEMMiNO" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRcgy6GzDeccI7dkbbBna3Q" htmlUrl="https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q"/>
+      <outline text="GDriveLinks" title="GDriveLinks" type="rss" 
+            xmlUrl="https://www.reddit.com/r/GDriveLinks.rss" htmlUrl="https://www.reddit.com/r/GDriveLinks"/>
+      <outline text="Clip-Sub" title="Clip-Sub" type="rss" 
+            xmlUrl="https://clip-sub.com/feed/" htmlUrl="https://clip-sub.com"/>
+      <outline text="Post Apocalyptic Subs (PAS)" title="Post Apocalyptic Subs (PAS)" type="rss" 
+            xmlUrl="https://pas.moe/index.php/feed/" htmlUrl="https://pas.moe"/>
+      <outline text="Jaimini&#39;s Box" title="Jaimini&#39;s Box" type="rss" 
+            xmlUrl="https://jaiminisbox.com/reader/feeds/rss" htmlUrl="https://jaiminisbox.com/reader/feeds/rss/"/>
+      <outline text="Pete Complete" title="Pete Complete" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0Xe2bvq_2uucE2IRALSR_Q" htmlUrl="https://www.youtube.com/channel/UC0Xe2bvq_2uucE2IRALSR_Q"/>
+      <outline text="Gigguk" title="Gigguk" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7dF9qfBMXrSlaaFFDvV_Yg" htmlUrl="https://www.youtube.com/channel/UC7dF9qfBMXrSlaaFFDvV_Yg"/>
+      <outline text="Commie Subs" title="Commie Subs" type="rss" 
+            xmlUrl="https://commiesubs.com/feed/" htmlUrl="https://commiesubs.com"/>
+</body>
+</opml>

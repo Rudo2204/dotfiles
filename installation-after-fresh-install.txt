@@ -1,0 +1,43 @@
+for terminal color:
+for bg use #282c35, R40 G44 B53
+for text use #BABDB6
+Or just use white text, I guess
+
+Also install ProFont: (Use ProFont.zip)
+https://github.com/ryanoasis/nerd-fonts/releases
+ProFontIIx Nerd Font Book | size 11
+
+#VERY MUCH NEEDED FOR DESKTOP ENV
+vim vim-gtk neovim vimrc (If on debian use the pre-built binary from github, it's out updated)
+wine, spek, qbittorent, mpv
+
+#Other useful tools:
+teeldear: tldr client written in rust, very fast
+ripgrep: blazing fast grep
+fzf: fuzzy search
+exa: new, colorized ls
+bat: better cat https://github.com/sharkdp/bat
+pyenv: multiple separate Python envs https://github.com/pyenv/pyenv
+qalc: handy CLI calculator https://github.com/Qalculate/libqalculate
+(may run into libcurl problem, see: https://askubuntu.com/questions/1094569/libcurl-not-found-error-message-while-trying-to-compile-a-package)
+
+#kind of useful but situational
+latex packs:
+texlive-latex-extra, texlive-science, texlive-language-other, biber, latexmk, texlive-bibtex-extra, pygments
+To compile documents with pygment have to have `-shell -escape` as extra compiler flag, check out nvim dotfiles.
+
+zsh w/ oh-my-zsh (zsh-autosuggestions, zsh-syntax-highlighting,bgnotify) w/ spaceship-prompt - cli => https://i.imgur.com/QXzEtT9.png
+racer: rust autocompletion
+rustfmt: rust formatting
+json_pp: pretty print json
+smem: better estimation of memory usage than free
+inxi: prints system info
+ncdu: disk usage analyzer, CLI
+lnav: log viewer
+pass: cli password manager, encrypt using GPG
+
+#Misc
+fortunes, fortunes-min: cool fortunes.
+cowsay: lol!
+figlet: prints ascii-art messages, similar to cowsay
+lolcat: who doesn't love rainbow

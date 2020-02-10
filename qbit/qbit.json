@@ -1,0 +1,255 @@
+{
+    "Araburu Kisetsu no Otome-domo yo": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "16 Aug 2019 18:27:52 +0000",
+        "mustContain": "Araburu Kisetsu no Otome-domo yo",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Carole and Tuesday": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://nyaa.si/?page=rss&q=PAS+carole+tuesday+720p&c=0_0&f=0"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "11 Apr 2019 15:23:52 +0000",
+        "mustContain": "Carole",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Cop Craft": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "19 Aug 2019 15:34:19 +0000",
+        "mustContain": "Cop Craft",
+        "mustNotContain": "01|02",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Dr. Stone": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "16 Aug 2019 14:33:15 +0000",
+        "mustContain": "Dr. Stone",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Dumbbell Nan Kilo": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "14 Aug 2019 14:34:25 +0000",
+        "mustContain": "Dumbbell Nan Kilo",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Enen no Shouboutai": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "16 Aug 2019 17:33:22 +0000",
+        "mustContain": "Enen no Shouboutai",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Fruits Basket": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "16 Aug 2019 17:06:31 +0000",
+        "mustContain": "Fruits Basket",
+        "mustNotContain": "15",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Given": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "15 Aug 2019 19:58:17 +0000",
+        "mustContain": "Given",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Karakai Jouzu no Takagi-san 2": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://nyaa.si/?page=rss&q=Karakai+Jouzu+no+Takagi-san+2+NeSubs+softsub&c=1_2&f=0"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "18 Aug 2019 23:13:38 +0000",
+        "mustContain": "Karakai Jouzu no Takagi-san 2",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Katsute Kami": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "19 Aug 2019 15:03:49 +0000",
+        "mustContain": "Katsute Kami",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Kimetsu no Yaiba": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "17 Aug 2019 16:03:42 +0000",
+        "mustContain": "Kimetsu no Yaiba",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://nyaa.si/?page=rss&q=erai-raws+Lord+El-Melloi+II+Sei+no+Jikenbo+720p&c=1_2&f=0"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "17 Aug 2019 16:32:40 +0000",
+        "mustContain": "Lord El-Melloi II Sei no Jikenbo",
+        "mustNotContain": "Special|~",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Toaru Kagaku no Accelerator": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "16 Aug 2019 20:39:09 +0000",
+        "mustContain": "Toaru Kagaku no Accelerator",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Vinland Saga": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://nyaa.si/?page=rss&q=vinland+saga+Mew&c=1_2&f=0",
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "18 Aug 2019 16:11:18 +0000",
+        "mustContain": "Vinland Saga",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "/home/rudo/Videos/Anime/Currently_watching/",
+        "smartFilter": false,
+        "useRegex": false
+    }
+}
