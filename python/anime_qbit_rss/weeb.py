@@ -8,14 +8,14 @@ with open('watch_list.txt', 'r') as f:
 def make_dict(name):
     return{
             "addPaused": None,
-            "affectedFeeds": ["http://www.horriblesubs.info/rss.php?res=720"],
+            "affectedFeeds": ["https://nyaa.si/?page=rss&q=erai-raws+720p&c=0_0&f=0"],
             "assignedCategory": "Anime",
             "enabled": True,
             "episodeFilter": "",
             "ignoreDays": 0,
             "lastMatch": None,
             "mustContain": name,
-            "mustNotContain": "",
+            "mustNotContain": "~",
             "previouslyMatchedEpisodes": [],
             "savePath": "/home/rudo/Videos/Anime/Currently_watching",
             "smartfilter": False,
