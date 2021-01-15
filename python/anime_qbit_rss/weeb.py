@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import json
 
 d = {}
@@ -8,14 +10,14 @@ with open('watch_list.txt', 'r') as f:
 def make_dict(name):
     return{
             "addPaused": None,
-            "affectedFeeds": ["https://nyaa.si/?page=rss&q=erai-raws+720p&c=0_0&f=0"],
+            "affectedFeeds": ["https://subsplease.org/rss/?t&r=720"],
             "assignedCategory": "Anime",
             "enabled": True,
             "episodeFilter": "",
             "ignoreDays": 0,
             "lastMatch": None,
             "mustContain": name,
-            "mustNotContain": "~",
+            "mustNotContain": "Batch",
             "previouslyMatchedEpisodes": [],
             "savePath": "/home/rudo/Videos/Anime/Currently_watching",
             "smartfilter": False,
